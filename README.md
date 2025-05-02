@@ -19,12 +19,15 @@ This program is a dynamic student record system written in C. It demonstrates th
 2. Compile the program:
 ```bash
 gcc student_record_system.c -o student_record_system
+```
 
 3. Run the program:
+```
 ./student_record_system
-
+```
 
 Sample Output
+```
 Enter number of students: 2
 Enter data for student 1:
 Name: Leonardo DiCaprio
@@ -49,3 +52,4 @@ Name: Jennifer Lawrence, Roll No: 102, GPA: 3.90
 Sorted by GPA (Descending):
 Name: Jennifer Lawrence, Roll No: 102, GPA: 3.90
 Name: Leonardo DiCaprio, Roll No: 101, GPA: 3.80
+```
